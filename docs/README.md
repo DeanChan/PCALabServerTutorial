@@ -75,11 +75,19 @@ graph TD;
 
 在浏览器中输入 [192.168.137.101:8080](http://192.168.137.101:8080/#/containers) 登录。
 
-- 登录用户名为admin, 密码为shipyard ![Login](./pics/login.png)
+?>登录用户名为`admin`, 密码为`shipyard` 
 
-- CONTAINERS 面板显示已经创建的container（虚拟机）列表 ![containers](./pics/containers.png)
 
-  ​
+
+![Login](./pics/login.png)
+
+?>CONTAINERS 面板显示已经创建的container（虚拟机）列表 : 
+
+
+
+![containers](./pics/containers.png)
+
+
 
 ### 2.3 基础镜像列表
 
